@@ -6,7 +6,7 @@ const JobApplicationForm = () => {
       style={{
         display: "flex",
         flexDirection: "column",
-        width: "400px",
+        width: "410px",
         margin: "50px auto",
         padding: "20px",
         border: "2px solid #ccc",
