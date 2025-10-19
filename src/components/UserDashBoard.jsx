@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-
+//style with tailwind
 const UserDashboard = () => {
   const [user, setUser] = useState(null);
   const [loading, setLoading] = useState(true);
